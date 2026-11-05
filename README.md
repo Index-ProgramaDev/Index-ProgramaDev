@@ -30,7 +30,7 @@ Minha filosofia:
   
 </td>
 <td width="45%" align="center">
-  <img src="https://i.ibb.co/JRz4qnnV/258085041.jpg" width="100%"/>
+  <img src="https://i.ibb.co/nNyTNhCt/258085041.jpg" width="100%"/>
 </td>
 </tr>
 </table>
@@ -42,10 +42,10 @@ Minha filosofia:
 <div align="center">
 
 **Linguagens**  
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,html,css" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,dart,html,css" />
 
 **Frameworks & Libraries**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,express,tailwind,vite" />
 
 **Databases**  
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
