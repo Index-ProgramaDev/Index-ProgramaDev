@@ -80,19 +80,19 @@ Minha filosofia:
 ### Cam-security 
 *Sistema de monitoramento inteligente com detecção de poses*
 
-**Stack:** Flutter, Mediapipe, OpenCV  
+**Stack:** Python, Mediapipe, OpenCV, PGvector, PrismaORM, MySQL  
 
-[<img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>](https://github.com/SEU_USUARIO/SEU_PROJETO)
+[<img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>](https://github.com/Index-ProgramaDev/Cam-Security)
 
 </td>
 <td width="50%">
   
 ### WorkUp
-*Uma plataforma de Conexão ultrarrápida entre profissionais e clientes.*
+*Uma plataforma de Conexão ultrarrápida entre profissionais e clientes. Selecionado pela I.de.i.as pelos interesses de incubação*
 
-**Stack:** HTML, Tailwind, Node.js, MongoDB  
+**Stack:** Tailwind, Node.js, MongoDB
 
-[<img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>](https://github.com/SEU_USUARIO/SEU_PROJETO)
+[<img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>](https://github.com/Index-ProgramaDev/WorkUp)
 
 </td>
 </tr>
@@ -109,12 +109,12 @@ Minha filosofia:
 </td>
 <td width="50%">
   
-### Risco-Invisivel  
-*Um site que utiliza IA para verificar dados sobre a dengue consultando a OMS.*
+### Arise Project
+*Um SaaS de desenvolvimento pessoal que usa um personal Trainer IA e tarefas diarias adaptativas*
 
 **Stack:** React, Tailwind, Javascript
 
-[<img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>](https://github.com/SEU_USUARIO/SEU_PROJETO)
+[<img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>](https://github.com/teacolhe-enfermagem)
 
 </td>
 </tr>
