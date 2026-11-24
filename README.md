@@ -14,7 +14,7 @@
   <img src="./assets/ficha.svg" alt="Ficha do jogador: João Daniel Bernardo, dev fullstack, Pernambuco, foco em IA, web e mobile" width="100%"/>
 </td>
 <td width="32%" align="center" valign="middle">
-  <img src="https://i.ibb.co/nNyTNhCt/258085041.jpg" alt="João Daniel Bernardo" width="100%"/>
+  <img src="https://i.ibb.co/3YVS82Vc/Selfie-Retr-em-Pixel-Art.png" alt="João Daniel Bernardo" width="100%"/>
 </td>
 </tr>
 </table>
