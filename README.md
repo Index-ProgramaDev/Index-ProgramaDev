@@ -19,13 +19,6 @@
 </tr>
 </table>
 
-<div align="center">
-
-Sou apaixonado por tecnologia e por criar soluções digitais.<br/>
-Gosto de transformar ideia em projeto real, explorar tecnologia nova e evoluir minhas habilidades o tempo todo.
-
-</div>
-
 <br/>
 
 <img src="./assets/h-regras.svg" alt="Regras do jogo" width="100%"/>
