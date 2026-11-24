@@ -1,258 +1,101 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0F172A,50:1E293B,100:06B6D4&text=%20DANIEL%20SOU%20BERNARDO&fontSize=38&fontColor=FFFFFF&fontAlignY=45&desc=Transformando%20ideias%20em%20experi%C3%AAncias%20digitais&descSize=16&descAlignY=65&animation=fadeIn" width="100%"/> <br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&lines=Desenvolvedor+de+Software+%7C+Apaixonado+por+Tecnologia;Transformando+ideias+em+c%C3%B3digo.;Construindo%2C+aprendendo+e+evoluindo.;Bem-vindo+ao+meu+GitHub+^_^" alt="Animação de texto"/>
+<div align="center">
 
-<br><br>
+<img src="./assets/banner.svg" alt="João Daniel Bernardo — Dev fullstack, IA aplicada, produtos digitais" width="100%"/>
 
-<img src="https://img.shields.io/badge/STATUS-DISPON%C3%8DVEL-00FF88?style=for-the-badge"/> <img src="https://img.shields.io/badge/FOCO-TECNOLOGIA-06B6D4?style=for-the-badge"/> <img src="https://img.shields.io/badge/CRIATIVIDADE-ATIVA-8A2BE2?style=for-the-badge"/> </div>
+<br/>
 
-## Quem Sou
+<img src="https://img.shields.io/badge/STATUS-DISPON%C3%8DVEL-1FD1C0?style=for-the-badge&labelColor=0D0B1E"/>
+<img src="https://img.shields.io/badge/BASE-PERNAMBUCO-FF3D8B?style=for-the-badge&labelColor=0D0B1E"/>
+<img src="https://img.shields.io/badge/FOCO-IA%20%C2%B7%20WEB%20%C2%B7%20MOBILE-FFB627?style=for-the-badge&labelColor=0D0B1E"/>
+
+</div>
+
+<br/>
+
+<img src="./assets/h-about.svg" width="100%" alt="01 Quem sou"/>
 
 <table>
 <tr>
-<td width="55%">
-  
-╔══════════════════════════════════════╗  
-║           DEVELOPER PROFILE          ║  
-╠══════════════════════════════════════╣  
-║ Name     : João Daniel Bernardo      ║  
-║ Role     : Dev-Fullstack             ║  
-║ Location : Pernambuco, Brazil 🇧🇷    ║  
-║ Status   : Construindo o futuro      ║  
-║ Mission  : Aprender • Construir • Evoluir ║  
-╚══════════════════════════════════════╝  
-
-Sou um desenvolvedor apaixonado por tecnologia, desenvolvimento de software e criação de soluções digitais.
-
-Gosto de transformar ideias em projetos reais, explorar novas tecnologias e evoluir constantemente minhas habilidades.
-
-Minha filosofia:
-
-> "Codar. Aprender. Construir. Quebrar. Consertar. Repetir."
-  
+<td width="62%" valign="middle">
+  <img src="./assets/about.svg" width="100%" alt="Ficha do desenvolvedor"/>
 </td>
-<td width="45%" align="center">
-  <img src="https://i.ibb.co/nNyTNhCt/258085041.jpg" width="100%"/>
+<td width="38%" align="center" valign="middle">
+  <img src="https://i.ibb.co/nNyTNhCt/258085041.jpg" width="100%" alt="João Daniel Bernardo"/>
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 💻 Tech Stack
+<img src="./assets/h-philosophy.svg" width="100%" alt="02 Filosofia"/>
+
+<img src="./assets/manifesto.svg" width="100%" alt="Codar. Aprender. Construir. Quebrar. Consertar. Repetir."/>
+
+<br/>
+
+<img src="./assets/h-stack.svg" width="100%" alt="03 Arsenal"/>
 
 <div align="center">
 
-**Linguagens**  
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,dart,html,css" />
+<sub><b>FRONT &amp; MOBILE</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,ts,js,tailwind,vite,html,css&theme=dark"/>
 
-**Frameworks & Libraries**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,express,tailwind,vite" />
+<sub><b>BACK &amp; DADOS</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,java,mysql,postgres,mongodb,prisma&theme=dark"/>
 
-**Databases**  
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<sub><b>IA &amp; VISÃO</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=py,opencv&theme=dark"/>
 
-**DevOps & Cloud**  
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel" />
+<sub><b>FLUXO &amp; FERRAMENTAS</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,figma,postman,npm,bash,powershell&theme=dark"/>
 
 </div>
 
----
+<br/>
 
-## 🧰 Toolkit
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,npm,bash,powershell" /><br><br>
-
-  <img src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Docker-050505?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-  <img src="https://img.shields.io/badge/VS_Code-050505?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
-  <img src="https://img.shields.io/badge/Figma-050505?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
-</div>
-
----
-
-## ⚡ Projetos
+<img src="./assets/h-projects.svg" width="100%" alt="04 Projetos"/>
 
 <table>
 <tr>
-<td width="50%">
-  
-### Cam-security 
-*Sistema de monitoramento inteligente com detecção de poses*
-
-**Stack:** Python, Mediapipe, OpenCV, PGvector, PrismaORM, MySQL  
-
-[<img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>](https://github.com/Index-ProgramaDev/Cam-Security)
-
-</td>
-<td width="50%">
-  
-### WorkUp
-*Uma plataforma de Conexão ultrarrápida entre profissionais e clientes. Selecionado pela I.de.i.as pelos interesses de incubação*
-
-**Stack:** Tailwind, Node.js, MongoDB
-
-[<img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>](https://github.com/Index-ProgramaDev/WorkUp)
-
-</td>
+<td width="50%"><a href="https://github.com/Index-ProgramaDev/Cam-Security"><img src="./assets/card-1.svg" width="100%" alt="Cam-Security"/></a></td>
+<td width="50%"><a href="https://github.com/Index-ProgramaDev/WorkUp"><img src="./assets/card-2.svg" width="100%" alt="WorkUp"/></a></td>
 </tr>
 <tr>
-<td width="50%">
-  
-### TEAcolhe  
-*Um app Mobile que alinha inteligencia artificial integrada para atender de forma objetiva pacientes com TEA.*
-
-**Stack:**  React Native, Nativewind, Django
-
-[<img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>](https://github.com/SEU_USUARIO/SEU_PROJETO)
-
-</td>
-<td width="50%">
-  
-### Arise Project
-*Um SaaS de desenvolvimento pessoal que usa um personal Trainer IA e tarefas diarias adaptativas*
-
-**Stack:** React, Tailwind, Javascript
-
-[<img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>](https://github.com/teacolhe-enfermagem)
-
-</td>
+<td width="50%"><a href="https://github.com/SEU_USUARIO/TEAcolhe"><img src="./assets/card-3.svg" width="100%" alt="TEAcolhe"/></a></td>
+<td width="50%"><a href="https://github.com/SEU_USUARIO/Arise-Project"><img src="./assets/card-4.svg" width="100%" alt="Arise Project"/></a></td>
 </tr>
 </table>
 
----
+<br/>
+
+<img src="./assets/h-stats.svg" width="100%" alt="05 Números"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,100:06B6D4&text=Meus%20Objetivos&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=&descAlignY=62&descSize=18" width="100%"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Index-ProgramaDev&show_icons=true&hide_border=false&border_color=2A2550&border_radius=16&bg_color=17142E&title_color=FF3D8B&icon_color=FFB627&text_color=F4F0FF&count_private=true&include_all_commits=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Index-ProgramaDev&layout=compact&hide_border=false&border_color=2A2550&border_radius=16&bg_color=17142E&title_color=FF3D8B&text_color=F4F0FF&langs_count=8"/>
 
-<br>
+<img src="https://streak-stats.demolab.com?user=Index-ProgramaDev&background=17142E&border=2A2550&ring=FF3D8B&fire=FFB627&currStreakNum=F4F0FF&sideNums=F4F0FF&currStreakLabel=FFB627&sideLabels=9A94C4&dates=9A94C4&stroke=2A2550&border_radius=16" width="70%"/>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/-%230F172A?style=for-the-badge" />
-</a>
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Index-ProgramaDev/Index-ProgramaDev/output/github-snake.svg" alt="Snake comendo minhas contribuições" width="100%"/>
 
 </div>
 
-## 🎯 O que estou construindo
+<br/>
 
-> Um futuro baseado na inovação e tecnologia**.
-
-<div align="center">
-
-| 💻 Desenvolvimento | 🤖 IA & Vision | 🏗️ Arquitetura | 🚀 Produtos |
-|:---:|:---:|:---:|:---:|
-| Código & APIs | IA aplicada | Escalabilidade | Soluções reais |
-
-<br>
-
-<br>
+<img src="./assets/h-contact.svg" width="100%" alt="06 Contato"/>
 
 <div align="center">
+
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-FF3D8B?style=for-the-badge&logo=linkedin&logoColor=0D0B1E"/></a>
+<a href="https://www.instagram.com/SEU_INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-FFB627?style=for-the-badge&logo=instagram&logoColor=0D0B1E"/></a>
+<a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/EMAIL-1FD1C0?style=for-the-badge&logo=gmail&logoColor=0D0B1E"/></a>
+<a href="https://github.com/SEU_USUARIO"><img src="https://img.shields.io/badge/GITHUB-7C5CFF?style=for-the-badge&logo=github&logoColor=F4F0FF"/></a>
 
 </div>
 
-## 📊 GitHub Analytics
+<br/>
 
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Index-ProgramaDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4&text_color=FFFFFF&count_private=true&include_all_commits=true"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Index-ProgramaDev&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0F172A&icon_color=0891B2&text_color=334155&count_private=true&include_all_commits=true"
-  />
-
-</picture>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Index-ProgramaDev&layout=compact&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=FFFFFF&langs_count=8"
-  />
-
-</picture>
-
-<br><br>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=Index-ProgramaDev&theme=dark&hide_border=true&background=0D1117&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com?user=Index-ProgramaDev&theme=default&hide_border=true&background=FFFFFF&ring=0891B2&fire=0891B2&currStreakLabel=0F172A"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=Index-ProgramaDev"
-    alt="GitHub Streak"
-    width="70%"
-  />
-</picture>
-
-</div>
-
-
-
-## 🐍 Contribuições
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Index-ProgramaDev/Index-ProgramaDev/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Index-ProgramaDev/Index-ProgramaDev/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Index-ProgramaDev/Index-ProgramaDev/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-</div>
-
-<div><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif"    width="100%"> </div>
-
-## 📫 Conecte-se Comigo
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
-  </a>
-  <a href="https://www.instagram.com/SEU_INSTAGRAM">
-    <img src="https://img.shields.io/badge/INSTAGRAM-050505?style=for-the-badge&logo=instagram&logoColor=00D9FF"/>
-  </a>
-  <a href="mailto:SEU_EMAIL">
-    <img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=00D9FF"/>
-  </a>
-  <a href="https://github.com/SEU_USUARIO">
-    <img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=00D9FF"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  ## "SYSTEM MESSAGE"
-  <pre>
-╭────────────────────────────────────────────╮
-│                                            │
-│      Obrigado por acessar meu espaço digital.  │
-│                                            │
-│           Continue Aprendendo                │
-│           Continue Construindo.            │
-│           Continue Evoluindo.                 │
-│                                            │
-╰────────────────────────────────────────────╯
-  </pre>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00D9FF,50:101820,100:050505&section=footer"/>
-  <sub>© 2026 João Daniel Bernardo • Built with code & curiosity.</sub>
-</div>
+<img src="./assets/footer.svg" width="100%" alt="Feito em Pernambuco, com código e curiosidade"/>
