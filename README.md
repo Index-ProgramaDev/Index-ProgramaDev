@@ -6,64 +6,56 @@
 
 <br/>
 
-## > PLAYER 1
+<img src="./assets/h-player.svg" alt="Player 1" width="100%"/>
 
 <table>
 <tr>
-<td valign="middle">
-
-```text
-+--------------------------------------------+
-| PLAYER 1   João Daniel Bernardo            |
-| CLASSE     Dev Fullstack                   |
-| MAPA       Pernambuco, Brasil              |
-| FOCO       IA / Web / Mobile               |
-| MISSÃO     Aprender / Construir / Evoluir  |
-| STATUS     [*] disponível para jogar       |
-+--------------------------------------------+
-```
-
-Sou apaixonado por tecnologia e por criar soluções digitais. Gosto de transformar ideia em projeto real, explorar tecnologia nova e evoluir minhas habilidades o tempo todo.
-
+<td width="68%" valign="middle">
+  <img src="./assets/ficha.svg" alt="Ficha do jogador: João Daniel Bernardo, dev fullstack, Pernambuco, foco em IA, web e mobile" width="100%"/>
 </td>
-<td width="240" align="center" valign="middle">
-  <img src="https://i.ibb.co/nNyTNhCt/258085041.jpg" width="240" alt="João Daniel Bernardo"/>
+<td width="32%" align="center" valign="middle">
+  <img src="https://i.ibb.co/nNyTNhCt/258085041.jpg" alt="João Daniel Bernardo" width="100%"/>
 </td>
 </tr>
 </table>
 
-## > REGRAS DO JOGO
+<div align="center">
 
-```text
-> codar
-> aprender
-> construir
-> quebrar
-> consertar
-> repetir          # loop infinito
-```
+Sou apaixonado por tecnologia e por criar soluções digitais.<br/>
+Gosto de transformar ideia em projeto real, explorar tecnologia nova e evoluir minhas habilidades o tempo todo.
 
-## > INVENTÁRIO
+</div>
 
-```text
-LINGUAGENS    JavaScript  TypeScript  Python  Java  Dart  HTML  CSS
-FRAMEWORKS    React  Next.js  React Native  NativeWind  Flutter
-              Node.js  Express  Django  Tailwind  Vite
-DADOS         MySQL  PostgreSQL (pgvector)  MongoDB  Prisma
-VISÃO / IA    OpenCV  MediaPipe
-FERRAMENTAS   Git  GitHub  Docker  Vercel  Figma  Postman  VS Code
-```
+<br/>
 
-## > SELEÇÃO DE FASE
+<img src="./assets/h-regras.svg" alt="Regras do jogo" width="100%"/>
 
-| FASE | PROJETO | O QUE É | STACK |
-|:---:|:---|:---|:---|
-| 1-1 | [**Cam-Security**](https://github.com/Index-ProgramaDev/Cam-Security) | Sistema de monitoramento inteligente com detecção de poses. | Python, MediaPipe, OpenCV, pgvector, Prisma, MySQL |
-| 1-2 | [**WorkUp**](https://github.com/Index-ProgramaDev/WorkUp) | Conexão ultrarrápida entre profissionais e clientes. Selecionado pela I.de.i.as para incubação. | Tailwind, Node.js, MongoDB |
-| 1-3 | **TEAcolhe** | App mobile com IA integrada para atender de forma objetiva pacientes com TEA. | React Native, NativeWind, Django |
-| 1-4 | **Arise Project** | SaaS de desenvolvimento pessoal com personal trainer de IA e tarefas diárias adaptativas. | React, Tailwind, JavaScript |
+<img src="./assets/regras.svg" alt="Codar, aprender, construir, quebrar, consertar, repetir" width="100%"/>
 
-## > HISTÓRICO DE PARTIDAS
+<br/>
+
+<img src="./assets/h-inventario.svg" alt="Inventário" width="100%"/>
+
+<img src="./assets/inventario.svg" alt="Linguagens, frameworks, dados, visão e IA, ferramentas" width="100%"/>
+
+<br/>
+
+<img src="./assets/h-fases.svg" alt="Seleção de fase" width="100%"/>
+
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/Index-ProgramaDev/Cam-Security"><img src="./assets/card-1.svg" alt="Cam-Security: monitoramento inteligente com detecção de poses" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/Index-ProgramaDev/WorkUp"><img src="./assets/card-2.svg" alt="WorkUp: conexão entre profissionais e clientes" width="100%"/></a></td>
+</tr>
+<tr>
+<td width="50%"><img src="./assets/card-3.svg" alt="TEAcolhe: app mobile com IA para pacientes com TEA" width="100%"/></td>
+<td width="50%"><img src="./assets/card-4.svg" alt="Arise Project: SaaS de desenvolvimento pessoal com IA" width="100%"/></td>
+</tr>
+</table>
+
+<br/>
+
+<img src="./assets/h-historico.svg" alt="Histórico de partidas" width="100%"/>
 
 <div align="center">
 
@@ -75,24 +67,19 @@ FERRAMENTAS   Git  GitHub  Docker  Vercel  Figma  Postman  VS Code
 
 </div>
 
-## > CONTINUE?
-
-```text
-[ LINKEDIN ]   [ INSTAGRAM ]   [ EMAIL ]   [ GITHUB ]
-```
-
-- [LinkedIn](https://www.linkedin.com/in/SEU_LINKEDIN)
-- [Instagram](https://www.instagram.com/SEU_INSTAGRAM)
-- [E-mail](mailto:SEU_EMAIL)
-- [GitHub](https://github.com/SEU_USUARIO)
-
 <br/>
+
+<img src="./assets/h-continue.svg" alt="Continue?" width="100%"/>
 
 <div align="center">
 
-```text
-OBRIGADO POR JOGAR.
-CONTINUE APRENDENDO. CONTINUE CONSTRUINDO. CONTINUE EVOLUINDO.
-```
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="48"/></a>
+<a href="https://www.instagram.com/SEU_INSTAGRAM"><img src="./assets/btn-instagram.svg" alt="Instagram" height="48"/></a>
+<a href="mailto:SEU_EMAIL"><img src="./assets/btn-email.svg" alt="E-mail" height="48"/></a>
+<a href="https://github.com/SEU_USUARIO"><img src="./assets/btn-github.svg" alt="GitHub" height="48"/></a>
 
 </div>
+
+<br/>
+
+<img src="./assets/footer.svg" alt="Obrigado por jogar. Continue aprendendo, construindo, evoluindo." width="100%"/>
