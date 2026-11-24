@@ -1,101 +1,98 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="João Daniel Bernardo — Dev fullstack, IA aplicada, produtos digitais" width="100%"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-DISPON%C3%8DVEL-1FD1C0?style=for-the-badge&labelColor=0D0B1E"/>
-<img src="https://img.shields.io/badge/BASE-PERNAMBUCO-FF3D8B?style=for-the-badge&labelColor=0D0B1E"/>
-<img src="https://img.shields.io/badge/FOCO-IA%20%C2%B7%20WEB%20%C2%B7%20MOBILE-FFB627?style=for-the-badge&labelColor=0D0B1E"/>
+<img src="./assets/banner.svg" alt="João Daniel Bernardo, dev fullstack" width="100%"/>
 
 </div>
 
 <br/>
 
-<img src="./assets/h-about.svg" width="100%" alt="01 Quem sou"/>
+## > PLAYER 1
 
 <table>
 <tr>
-<td width="62%" valign="middle">
-  <img src="./assets/about.svg" width="100%" alt="Ficha do desenvolvedor"/>
+<td valign="middle">
+
+```text
++--------------------------------------------+
+| PLAYER 1   João Daniel Bernardo            |
+| CLASSE     Dev Fullstack                   |
+| MAPA       Pernambuco, Brasil              |
+| FOCO       IA / Web / Mobile               |
+| MISSÃO     Aprender / Construir / Evoluir  |
+| STATUS     [*] disponível para jogar       |
++--------------------------------------------+
+```
+
+Sou apaixonado por tecnologia e por criar soluções digitais. Gosto de transformar ideia em projeto real, explorar tecnologia nova e evoluir minhas habilidades o tempo todo.
+
 </td>
-<td width="38%" align="center" valign="middle">
-  <img src="https://i.ibb.co/nNyTNhCt/258085041.jpg" width="100%" alt="João Daniel Bernardo"/>
+<td width="240" align="center" valign="middle">
+  <img src="https://i.ibb.co/nNyTNhCt/258085041.jpg" width="240" alt="João Daniel Bernardo"/>
 </td>
 </tr>
 </table>
 
-<br/>
+## > REGRAS DO JOGO
 
-<img src="./assets/h-philosophy.svg" width="100%" alt="02 Filosofia"/>
+```text
+> codar
+> aprender
+> construir
+> quebrar
+> consertar
+> repetir          # loop infinito
+```
 
-<img src="./assets/manifesto.svg" width="100%" alt="Codar. Aprender. Construir. Quebrar. Consertar. Repetir."/>
+## > INVENTÁRIO
 
-<br/>
+```text
+LINGUAGENS    JavaScript  TypeScript  Python  Java  Dart  HTML  CSS
+FRAMEWORKS    React  Next.js  React Native  NativeWind  Flutter
+              Node.js  Express  Django  Tailwind  Vite
+DADOS         MySQL  PostgreSQL (pgvector)  MongoDB  Prisma
+VISÃO / IA    OpenCV  MediaPipe
+FERRAMENTAS   Git  GitHub  Docker  Vercel  Figma  Postman  VS Code
+```
 
-<img src="./assets/h-stack.svg" width="100%" alt="03 Arsenal"/>
+## > SELEÇÃO DE FASE
 
-<div align="center">
+| FASE | PROJETO | O QUE É | STACK |
+|:---:|:---|:---|:---|
+| 1-1 | [**Cam-Security**](https://github.com/Index-ProgramaDev/Cam-Security) | Sistema de monitoramento inteligente com detecção de poses. | Python, MediaPipe, OpenCV, pgvector, Prisma, MySQL |
+| 1-2 | [**WorkUp**](https://github.com/Index-ProgramaDev/WorkUp) | Conexão ultrarrápida entre profissionais e clientes. Selecionado pela I.de.i.as para incubação. | Tailwind, Node.js, MongoDB |
+| 1-3 | **TEAcolhe** | App mobile com IA integrada para atender de forma objetiva pacientes com TEA. | React Native, NativeWind, Django |
+| 1-4 | **Arise Project** | SaaS de desenvolvimento pessoal com personal trainer de IA e tarefas diárias adaptativas. | React, Tailwind, JavaScript |
 
-<sub><b>FRONT &amp; MOBILE</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,ts,js,tailwind,vite,html,css&theme=dark"/>
-
-<sub><b>BACK &amp; DADOS</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,java,mysql,postgres,mongodb,prisma&theme=dark"/>
-
-<sub><b>IA &amp; VISÃO</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=py,opencv&theme=dark"/>
-
-<sub><b>FLUXO &amp; FERRAMENTAS</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,figma,postman,npm,bash,powershell&theme=dark"/>
-
-</div>
-
-<br/>
-
-<img src="./assets/h-projects.svg" width="100%" alt="04 Projetos"/>
-
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/Index-ProgramaDev/Cam-Security"><img src="./assets/card-1.svg" width="100%" alt="Cam-Security"/></a></td>
-<td width="50%"><a href="https://github.com/Index-ProgramaDev/WorkUp"><img src="./assets/card-2.svg" width="100%" alt="WorkUp"/></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/SEU_USUARIO/TEAcolhe"><img src="./assets/card-3.svg" width="100%" alt="TEAcolhe"/></a></td>
-<td width="50%"><a href="https://github.com/SEU_USUARIO/Arise-Project"><img src="./assets/card-4.svg" width="100%" alt="Arise Project"/></a></td>
-</tr>
-</table>
-
-<br/>
-
-<img src="./assets/h-stats.svg" width="100%" alt="05 Números"/>
+## > HISTÓRICO DE PARTIDAS
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Index-ProgramaDev&show_icons=true&hide_border=false&border_color=2A2550&border_radius=16&bg_color=17142E&title_color=FF3D8B&icon_color=FFB627&text_color=F4F0FF&count_private=true&include_all_commits=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Index-ProgramaDev&layout=compact&hide_border=false&border_color=2A2550&border_radius=16&bg_color=17142E&title_color=FF3D8B&text_color=F4F0FF&langs_count=8"/>
-
-<img src="https://streak-stats.demolab.com?user=Index-ProgramaDev&background=17142E&border=2A2550&ring=FF3D8B&fire=FFB627&currStreakNum=F4F0FF&sideNums=F4F0FF&currStreakLabel=FFB627&sideLabels=9A94C4&dates=9A94C4&stroke=2A2550&border_radius=16" width="70%"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Index-ProgramaDev/Index-ProgramaDev/output/github-snake.svg" alt="Snake comendo minhas contribuições" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Index-ProgramaDev/Index-ProgramaDev/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Index-ProgramaDev/Index-ProgramaDev/output/github-snake.svg"/>
+  <img alt="Snake comendo minhas contribuições" src="https://raw.githubusercontent.com/Index-ProgramaDev/Index-ProgramaDev/output/github-snake.svg" width="100%"/>
+</picture>
 
 </div>
 
-<br/>
+## > CONTINUE?
 
-<img src="./assets/h-contact.svg" width="100%" alt="06 Contato"/>
+```text
+[ LINKEDIN ]   [ INSTAGRAM ]   [ EMAIL ]   [ GITHUB ]
+```
+
+- [LinkedIn](https://www.linkedin.com/in/SEU_LINKEDIN)
+- [Instagram](https://www.instagram.com/SEU_INSTAGRAM)
+- [E-mail](mailto:SEU_EMAIL)
+- [GitHub](https://github.com/SEU_USUARIO)
+
+<br/>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-FF3D8B?style=for-the-badge&logo=linkedin&logoColor=0D0B1E"/></a>
-<a href="https://www.instagram.com/SEU_INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-FFB627?style=for-the-badge&logo=instagram&logoColor=0D0B1E"/></a>
-<a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/EMAIL-1FD1C0?style=for-the-badge&logo=gmail&logoColor=0D0B1E"/></a>
-<a href="https://github.com/SEU_USUARIO"><img src="https://img.shields.io/badge/GITHUB-7C5CFF?style=for-the-badge&logo=github&logoColor=F4F0FF"/></a>
+```text
+OBRIGADO POR JOGAR.
+CONTINUE APRENDENDO. CONTINUE CONSTRUINDO. CONTINUE EVOLUINDO.
+```
 
 </div>
-
-<br/>
-
-<img src="./assets/footer.svg" width="100%" alt="Feito em Pernambuco, com código e curiosidade"/>
